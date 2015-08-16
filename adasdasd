@@ -1,0 +1,13 @@
+[1mdiff --git a/Git Command.txt b/Git Command.txt[m
+[1mindex 503e369..c1bc382 100644[m
+[1m--- a/Git Command.txt[m	
+[1m+++ b/Git Command.txt[m	
+[36m@@ -4,4 +4,5 @@[m [mgit init						//initialize that folder[m
+ git add index.php				//add index.php[m
+ git status 						//show status file[m
+ git commit -m "Some message"	//add message to the commit[m
+[31m-git log							// the log[m
+\ No newline at end of file[m
+[32m+[m[32mgit log							// the log[m
+[32m+[m[32mgit diff						//to check different in file[m
+\ No newline at end of file[m

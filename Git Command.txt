@@ -1,0 +1,8 @@
+GIT Command
+								//1st got to the directory folder
+git init						//initialize that folder
+git add index.php				//add index.php
+git status 						//show status file
+git commit -m "Some message"	//add message to the commit
+git log							// the log
+git diff						//to check different in file
