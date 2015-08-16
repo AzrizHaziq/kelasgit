@@ -8,3 +8,4 @@ git log							// the log
 git diff						//to check different in file
 git remote add origin https://github.com/TwinLight/kelasgit.git    //to connect to repositary
 git push -u origin master 		//push file to repository
+git checkout master
