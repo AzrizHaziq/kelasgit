@@ -12,7 +12,12 @@ newbranch line: 3
 newbranch line: 4
 newbranch line: 5
 newbranch line: 6
+<<<<<<< 962c56946b339678de937b9aa7b9c3592000b20e
 >>>>>>> Newbranch 1
+=======
+newbranch line: 7
+newbranch line: 8
+>>>>>>> Newbranch 2
 TRY TRY TRY
 
 branch
