@@ -17,7 +17,11 @@ newbranch line: 6
 =======
 newbranch line: 7
 newbranch line: 8
+<<<<<<< 24fab3522ffa93cbfb20a5ad1c150594658f6785
 >>>>>>> Newbranch 2
+=======
+newbranch line: 9
+>>>>>>> Newbranch 3
 TRY TRY TRY
 
 branch
