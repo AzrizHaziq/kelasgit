@@ -8,7 +8,16 @@ git log							// the log
 git diff						//to check different in file
 git remote add origin https://github.com/TwinLight/kelasgit.git    //to connect to repositary
 git push -u origin master 		//push file to repository
+git push --all					
 
 git checkout -b newbranch		//create new branch name newbranch
 git checkout master				//msk kan dlm branch master
-git merge master				//current branch is newbranch, it will copy all master file to newbranch
+git merge newbranch				//current branch is master, it will copy all master file to newbranch
+git clone <link repo>			//copy repository
+
+
+http://www.git-scm.com/book/en/v2
+
+github 
+gitlab
+bitbucket
