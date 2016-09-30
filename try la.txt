@@ -3,6 +3,6 @@
 "best 1st line"  
 best 1st line  
 best 1st line 1ssadscvzxcvzxcvzxcvv\n  
-1ssadscvzxcvzxcvzxcvv/n  
+master before commit 1  
 master commit 1  
 master commit 2  
